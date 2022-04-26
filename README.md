@@ -53,7 +53,9 @@ Defend or Attach is about the each champion's demage taken per minute -demage mi
 
 Earned Gold to Demage is about the average demage share vs average gold earned share in the team. Higher amount showing means the champion can efficiently apply the less amount of gold to create most demage. 
 
+![web](https://user-images.githubusercontent.com/94014863/165408407-10942073-bcae-4285-b130-64149c30f1b6.PNG)
 
+The website was created to help on user to track on the Champion selection by team,side,league,player. 
 
 Narrow to LPL regions
 The second source, 2019 LPL Summer game data would be added for the following analysis.
