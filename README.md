@@ -21,7 +21,9 @@ https://oracleselixir.com/tools/downloads
 
 https://oracleselixir.com/stats/teams/byTournament
 
-The database for the champion website. File is too big to be uploaded. Please download this file and add to the "app" folder which under "page"
+The database for the champion website. File is too big to be uploaded. Please download this file and add to the "app" folder
+
+
 https://drive.google.com/file/d/1jv5DktB4Ke6cG0uALUH1Tw3hYs_Vhhnx/view?usp=sharing
 
 Tableau Source:
