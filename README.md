@@ -84,3 +84,6 @@ Funplus Pheonix players all reached the highest KDA in each position.
 
 FunPlus Pheonix also got the LPL 2019 Summer Champion with its 88% winning rate.This rate means the absolute leadership in the leagues for that period.
 
+
+![FPX](https://user-images.githubusercontent.com/94014863/165407305-6b258f37-cf5d-4fca-80d0-70af42aa0318.PNG)
+
